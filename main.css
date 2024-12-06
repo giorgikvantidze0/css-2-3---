@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#header {
+    max-width: 100%;
+    padding: 12px 24px;
+    display: inline-block;
+    margin-left: 689px;
+}
+
+#list-team {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.anderline {
+    display: inline;
+    margin-left: 20px;
+}
+
+#button {
+    background: none;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    margin-left: 40px;
+}
+
+#arcticle {
+    margin-top: 142px;
+    margin-left: 350px;
+}
+
+#images {
+    max-width: 458px;
+    vertical-align: top;
+
+}
+
+#sectcion {
+    display: inline-block;
+    max-width: 644px;
+    margin-left: 45px;
+
+}
+
+#offer {
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 80px;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+#text {
+    margin-top: 16px;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 10px;
+}
+
+#anderline {
+    margin-left: 20px;
+    margin-top: 16px;
+
+}
+
+.list {
+    margin-top: 12px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+#registracion {
+    margin-top: 83px;
+    margin-left: 350px;
+    max-width: 1121px;
+}
+
+#contact {
+    max-width: 905px;
+}
+
+
+#title {
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+
+}
+
+#consectetur {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+#border {
+    max-width: 1221px;
+    margin-left: 350px;
+
+}
+
+#lursmanqulaardamaklo {
+    color: #6D5F8B;
+    background-color: #F7F4FF;
+    max-height: 474px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#card {
+    color: #FFFFFF;
+    max-height: 474px;
+}
+
+
+
+#jois {
+    display: inline-block;
+    width: fit-content;
+    vertical-align: middle;
+}
+
+#addres {
+    display: inline-block;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    vertical-align: middle;
+}
+#addressText {
+    display: inline-block;
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    vertical-align: middle;
+}
+
+#glen {
+    vertical-align: middle;
+    color: #6D5F8B;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#boxadres {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+#borderemale {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#emaill {
+    display: block;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+
+}
+
+#emaleee {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#bordexxx {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#borderemale {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#deanna {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+}
+
+#scr {
+    display: block;
+    vertical-align: middle;
+}
+
+#onenumber {
+    display: inline-block;
+    vertical-align: middle;
+}
+#one {
+    display: block;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+    font-weight: 700;
+}
+#phoneDiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#number {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+}
