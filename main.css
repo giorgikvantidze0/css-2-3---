@@ -1,23 +1,26 @@
 * {
-    margin: 0;
     padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
-
-
-#header {
-    max-width: 100%;
+#conteiner {
+    text-align: right;
+    color: #F7F4FF;
     padding: 12px 24px;
-    display: inline-block;
-    margin-left: 689px;
 }
+
 
 #list-team {
     display: inline-block;
     list-style-type: none;
-    margin-left: 20px;
+    margin-left: 50px;
     text-align: center;
+    color: black;
+}
+
+#list-contact {
+    color: #8E26C0;
 }
 
 .anderline {
@@ -25,38 +28,46 @@
     margin-left: 20px;
 }
 
+#contact {
+    color: #8E26C0;
+}
+
 #button {
-    background: none;
+    border-color: #53389E;
+    margin-left: 50px;
     border-radius: 8px;
-    border: 1px solid #8E26C0;
-    margin-left: 40px;
+}
+
+#us {
+    size: 14px;
+    color: #8E26C0;
+    padding: 8px 16px;
 }
 
 #arcticle {
     margin-top: 142px;
-    margin-left: 350px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
 }
 
 #images {
-    max-width: 458px;
-    vertical-align: top;
-
+    width: fit-content;
+    vertical-align: middle;
 }
 
 #sectcion {
-    display: inline-block;
     max-width: 644px;
-    margin-left: 45px;
-
+    height: 325px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 60px;
 }
 
 #offer {
-    text-align: center;
-    margin-left: 150px;
-    margin-top: 80px;
     font-size: 40px;
     font-weight: 700;
-
+    text-align: center;
 }
 
 #text {
@@ -64,170 +75,228 @@
     color: #535862;
     font-size: 20px;
     font-weight: 400;
-    line-height: normal;
-    margin-right: 10px;
 }
 
 #anderline {
-    margin-left: 20px;
+    text-align: left;
+    margin-left: 60px;
     margin-top: 16px;
-
-}
-
-.list {
-    margin-top: 12px;
-    font-size: 24px;
-    font-weight: 400;
-}
-
-
-#registracion {
-    margin-top: 83px;
-    margin-left: 350px;
-    max-width: 1121px;
-}
-
-#contact {
-    max-width: 905px;
-}
-
-
-#title {
-    text-align: center;
-    font-size: 56px;
-    font-weight: 700;
-
-}
-
-#consectetur {
-    color: #535862;
-    text-align: center;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    margin-top: 18px;
+    font-size: 30px;
 }
 
 #border {
+    width: 1221px;
+}
+
+#contact {
+
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67.77px;
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+}
+
+#consectetur {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27.1px;
+    color: #535862;
+    max-width: 600px;
+    text-align: center;
+}
+
+#contact-wrapper {
     max-width: 1221px;
-    margin-left: 350px;
-
+    width: 100%;
+    margin: 0 auto;
 }
 
-#lursmanqulaardamaklo {
-    color: #6D5F8B;
+#main_background {
+
+
     background-color: #F7F4FF;
-    max-height: 474px;
+    border-radius: 10px;
+    padding: 32px;
+
+
+}
+
+#mainSecondBackground {
     display: inline-block;
+    width: 403px;
+    height: 474px;
+    background-color: white;
+    margin-left: 30px;
+    border-radius: 8px;
     vertical-align: middle;
+    padding: 20px;
 }
 
-#card {
-    color: #FFFFFF;
-    max-height: 474px;
-}
-
-
-
-#jois {
+#joistic {
     display: inline-block;
-    width: fit-content;
-    vertical-align: middle;
 }
 
-#addres {
+#boxadres {
     display: inline-block;
-    color: #000;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    vertical-align: middle;
+    vertical-align: top;
+    margin-left: 16px;
 }
+
 #addressText {
-    display: inline-block;
-    color: #000;
+    vertical-align: middle;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
+    line-height: 29.1px;
+    display: inline-block;
     vertical-align: middle;
 }
 
 #glen {
-    vertical-align: middle;
-    color: #6D5F8B;
     font-size: 16px;
     font-weight: 400;
+    color: #6D5F8B;
+
 }
 
-#boxadres {
+#wrapper {
+    display: inline-block;
     vertical-align: middle;
+    margin-left: 16px;
+
+}
+
+#emaill-wraper {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 24px;
+    margin-left: 15px;
+}
+
+#emale {
     display: inline-block;
 }
 
-
-#borderemale {
+#imagesemal {
     display: inline-block;
-    vertical-align: middle;
-
+    vertical-align: top;
+    margin-left: 16px;
 }
 
 #emaill {
-    display: block;
-    vertical-align: middle;
     font-size: 20px;
-    color: #000;
     font-weight: 700;
-
-}
-
-#emaleee {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-#bordexxx {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-#borderemale {
+    line-height: 29.1px;
     display: inline-block;
     vertical-align: middle;
 }
 
 #deanna {
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 20px;
-    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    color: #6D5F8B;
 }
 
-#scr {
-    display: block;
-    vertical-align: middle;
-}
-
-#onenumber {
+#numberbox {
     display: inline-block;
     vertical-align: middle;
+    margin-top: 24px;
+    margin-left: 16px;
+
 }
+
+#phone {
+    display: inline-block;
+}
+
+#phoneboxes {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+
 #one {
-    display: block;
-    vertical-align: middle;
     font-size: 20px;
-    color: #000;
     font-weight: 700;
-}
-#phoneDiv {
+    line-height: 29.1px;
     display: inline-block;
     vertical-align: middle;
 }
+
 
 #number {
+    font-size: 16px;
+    font-weight: 400;
+    color: #6D5F8B;
+}
+
+#mainsend {
+    vertical-align: top;
     display: inline-block;
-    vertical-align: middle;
-    font-size: 20px;
-    color: #000;
+
+}
+
+#sendmain {
+    color: #1B003D;
+}
+
+
+
+#send-message-input {
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 44px;
+    display: block;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#Fullname {
+    font-size: 14px;
+    padding: 16px;
+
+}
+
+#texttype {
+    border-radius: 8px;
+    margin-top: 16px;
+    border-color: #8E26C0;
+    max-width: 730px;
+    width: 100%;
+    height: 45px;
+}
+
+#email--type {
+    margin-top: 16px;
+}
+
+#write {
+    width: 100%;
+    height: 45px;    
+    border-color: #8E26C0;
+    border-radius: 8px;
+}
+
+#textarea {
+    margin-top: 16px;
+    border-color: #8E26C0;
+    border-radius: 8px;
+    height: 75px;
+
+}
+
+#boxsis {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#button {
+    border-color: #8E26C0;
+    padding: 12px 24px;
 }
