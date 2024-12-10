@@ -34,8 +34,8 @@
 
 #button {
     border-color: #53389E;
-    margin-left: 50px;
     border-radius: 8px;
+    margin-left: 80px;
 }
 
 #us {
@@ -85,7 +85,7 @@
 }
 
 #border {
-    width: 1221px;
+    width: 100%;
 }
 
 #contact {
@@ -223,8 +223,6 @@
 
 #one {
     font-size: 20px;
-    font-weight: 700;
-    line-height: 29.1px;
     display: inline-block;
     vertical-align: middle;
 }
@@ -267,9 +265,10 @@
     border-radius: 8px;
     margin-top: 16px;
     border-color: #8E26C0;
-    max-width: 730px;
     width: 100%;
     height: 45px;
+    padding: 15px;
+
 }
 
 #email--type {
@@ -281,6 +280,7 @@
     height: 45px;    
     border-color: #8E26C0;
     border-radius: 8px;
+    padding: 17px;
 }
 
 #textarea {
@@ -288,15 +288,159 @@
     border-color: #8E26C0;
     border-radius: 8px;
     height: 75px;
+    padding: 16px;
+    width: 100%;
 
 }
 
 #boxsis {
     display: inline-block;
-    margin-left: 25px;
+    vertical-align: top;
+    margin-left: 20px;
+
 }
 
 #button {
     border-color: #8E26C0;
     padding: 12px 24px;
+}
+
+#footer {
+    background-color: #53389E;
+    width: 100%;
+    margin-top: 163px;
+    color: #F7F4FF;
+}
+
+#footer-underline {
+    padding: 64px 320px;
+    display: inline-block;
+    margin-left: 43px;
+}
+
+#list {
+    list-style: none;
+}
+
+#underline {
+    display: inline-block;
+    vertical-align: top;
+    width: 164px;
+
+}
+
+#line-title {
+    color: #D6BBFB;
+}
+
+.product {
+    margin-top: 10px;
+}
+
+#underline-too {
+    display: inline-block;
+    vertical-align: top;
+    width: 164px;
+}
+
+#listunderline {
+    list-style: none;
+    display: inline-block;
+
+
+}
+
+#list-compani {
+    color: #D6BBFB;
+}
+
+.Company {
+    margin-top: 10px;
+}
+
+
+
+#underline-three {
+    display: inline-block;
+    vertical-align: top;
+    width: 164px;
+}
+
+#listuse {
+    list-style: none;
+    display: inline-block;
+}
+
+#one {
+    color: #D6BBFB;
+}
+
+.usecases {
+    margin-top: 10px;
+}
+
+#underline-Social {
+    display: inline-block;
+    vertical-align: top;
+    width: 164px;
+}
+
+#listsocial {
+    list-style: none;
+    display: inline-block;
+}
+
+#idsocial {
+    color: #D6BBFB;
+}
+
+.claassocial {
+    margin-top: 10px;
+}
+
+#underlinefinish {
+    display: inline-block;
+    vertical-align: top;
+    width: 164px;
+}
+
+#listfinish {
+    list-style: none;
+    display: inline-block;
+}
+
+#legal {
+    color: #D6BBFB;
+}
+
+.listlegal {
+    margin-top: 10px;
+}
+
+#footerhr {
+    max-width: 800px;
+    border-top: 1px solid red;
+    margin: auto;
+}
+
+#footerlogos {
+    margin-top: 15px;
+    display: inline-block;
+}
+
+
+#logos-name {
+    margin-top: 25px;
+    display: inline-block;
+    vertical-align: top;
+    width: 97px;
+}
+
+
+#untitled {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 25px;
+    margin-left: 400px;
+    color: #D6BBFB;
 }
